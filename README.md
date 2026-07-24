@@ -29,28 +29,28 @@ backend - Spring Boot Application
 ## Screenshots
 
 ### Login Page
-![Login](Login.png)
+
 
 ### Signup Page
-![Signup](Signup.png)
+
 
 ### Admin Dashboard
-![Admin](Admin_dashboard.png)
+
 
 ### Teacher Dashboard
-![Teacher](Teacher_dashboard.png)
+
 
 ### Manage Test
-![Manage Test](Teacher_dashboard_managetest.png)
+
 
 ### Student Dashboard
-![Student Dashboard](Student_dashboard.png)
+
 
 ### Student Assessment
-![Student Assessment](student_assessment.png)
+
 
 ### Code Editor
-![Code Editor](code_editor.png)
+
 
 ## Author
-Kiruthika
+Hemalatha
